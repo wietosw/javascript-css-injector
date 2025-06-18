@@ -17,7 +17,7 @@ use Symfony\Component\HttpFoundation\RequestStack;
 #[AsEventListener(GenericPageLoadedEvent::class)]
 class StorefrontPageLoadedListener
 {
-    public const string CODE_SNIPPETS = 'codeSnippets';
+    public const CODE_SNIPPETS = 'codeSnippets';
 
     public function __construct(
         private readonly ResourcesService $resourcesService,
