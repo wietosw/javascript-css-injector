@@ -20,8 +20,8 @@ use SwCommerce\JavascriptCSSInjector\Core\Content\CodeSnippet\CodeSnippetEntity;
 
 final class ResourcesService
 {
-    public const string CSS = 'css';
-    public const string JS = 'js';
+    public const CSS = 'css';
+    public const JS = 'js';
 
     /**
      * @param EntityRepository<CodeSnippetCollection> $swCommerceCodeSnippetRepository

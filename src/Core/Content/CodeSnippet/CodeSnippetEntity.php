@@ -27,7 +27,7 @@ class CodeSnippetEntity extends Entity
     /**
      * @var array<string>
      */
-    protected array $renderPages;
+    protected array $renderPages = [];
 
     protected ?\DateTimeImmutable $activeFrom;
     protected ?\DateTimeImmutable $activeTo;
