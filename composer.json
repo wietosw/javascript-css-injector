@@ -21,12 +21,12 @@
             "en-GB": "Container manager to easily add custom JavaScript and/or SCSS to the theme compilation."
         },
         "manufacturerLink": {
-            "de-DE": "",
-            "en-GB": ""
+            "de-DE": "https://swcommerce.com/",
+            "en-GB": "https://swcommerce.com/"
         },
         "supportLink": {
-            "de-DE": "",
-            "en-GB": ""
+            "de-DE": "https://swcommerce.com/",
+            "en-GB": "https://swcommerce.com/"
         }
     },
     "autoload": {
